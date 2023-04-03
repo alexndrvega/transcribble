@@ -1,3 +1,5 @@
+# Copywright Alexander Vega https://github.com/alexndrvega
+
 import openai
 import requests
 from pydub import AudioSegment
